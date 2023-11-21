@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZilCdjYAE2KLN2fbdWDkAgy8+VOYVmsQxgAGggijL0pr4Nm+56ozCuHx0WcZD9A7AbxBkQRIrs6gfdOit6IIQ==",
+  "dgSpecHash": "yqQS5Pgyw7zA3h54tWfCti1jo0i+oQV2jPE3Z8aJb6kjuoxAanvYmWynE6Xia/Nu39A4zy4i3RXLHpHrhowOdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\ApiControle\\ApiControle.csproj",
+  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\ApiControle\\ApiControle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r_cas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\r_cas\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

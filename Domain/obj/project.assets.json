@@ -994,11 +994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\r_cas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9scEeAX0WNo2mgAmWsDyOgen73mG6XRB9TRrf2vonhC46+PWhWG04n3pkCl5NWGWPC8D+WI4pC2Xf4el4Qrnw==",
+  "dgSpecHash": "v2ycuRas8/JxSGEJH4OoUE7t1KTVcbgg0Qi4pcKKcM9R6vPjTrgygRQ32KcOPQ29yykQrIe/p1OPSKTdapVJtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r_cas\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\r_cas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

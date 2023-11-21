@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXZtu8+3xSmgXDj9pTzqVR+9sXrunHmRAl+o33ZQHnue0CL5X2YO139Q8Z20ag/gsbezpNIQ2euw9mNqmGCJCQ==",
+  "dgSpecHash": "/m/bziC45N+OcPZh3ppUXpemZVfXr5dRmNvcWKNjQ7EUyd15o3tcD3SIYEiDQajDaabgAdeIVP4vYe7sdcndiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Licitacao\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\r_cas\\OneDrive\\Área de Trabalho\\Teste-Licitacao\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r_cas\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\r_cas\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
